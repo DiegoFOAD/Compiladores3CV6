@@ -1,0 +1,5 @@
+D->abC
+D->bAC
+C->Ab
+A->aD
+D->cCA
